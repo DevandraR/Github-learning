@@ -2,7 +2,9 @@ Rencanan Bulanan Evan
 
 - Belajar Java
   a. Belajar sintaks awal
+    - Pointer
+    - Class
   b. Belajar Git
 - Belajar Kalkulus 2
-- Belajar ulang matdis 1
+  a. Integral lanjut
 - Belajar tes Ristek 
