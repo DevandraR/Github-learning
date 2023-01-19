@@ -2,7 +2,9 @@ Rencanan Bulanan Evan
 
 - Belajar Java
   a. Belajar sintaks awal
+    - Hello world
   b. Belajar Git
 - Belajar Kalkulus 2
 - Belajar ulang matdis 1
+  a. Logika Proposisi
 - Belajar tes Ristek 
