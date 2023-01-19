@@ -4,4 +4,5 @@ Rencanan Bulanan Evan
   a. Belajar sintaks awal
   b. Belajar Git
 - Belajar Kalkulus 2
+- Belajar ulang matdis 1
 - Belajar tes Ristek 
