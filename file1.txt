@@ -1,0 +1,3 @@
+goals dalam tahun 2023
+- menguasai java
+- menguasai git
